@@ -43,3 +43,14 @@ img{
 #features {
   margin-top: 5px;
 }
+.dog_image {
+  border-radius: 50%;
+  height: 100px;
+}
+.text-body-emphasis {
+  font-size: 2rem;
+}
+.display-4 {
+  font-size: 4rem;
+}
+
