@@ -44,7 +44,7 @@ bootstrap_tindog_website/
 ├── images/
 │   └── ...
 └── README.md
-
+```
 ## 📚 Acknowledgements
 This project was built while following the Udemy course 
 [*The Complete Web Development Bootcamp by Angela Yu*](https://www.udemy.com/course/the-complete-web-development-bootcamp/).
